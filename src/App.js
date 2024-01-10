@@ -11,6 +11,7 @@ function App() {
   }, []);
 
   return (
+    // yes
     <div className="App">
       <h1>{message}</h1>
     </div>
